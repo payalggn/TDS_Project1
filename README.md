@@ -1,3 +1,3 @@
-This project scrapes GitHub users in Barcelona with more than 100 followers and their repositories.
+- Data was collected from the GitHub API by filtering for users based in Barcelona who have more than 100 followers, and then retrieving their latest repositories.
 - One surprising fact: Many developers have high follower counts but don't keep their repositories updated with proper documentation.
 - Recommendation: Developers should prioritize writing clear README files and license their repositories to increase collaboration.
